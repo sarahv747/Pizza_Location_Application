@@ -1,4 +1,4 @@
-# Pizzicanto 
+# Pizza Roulette
  is an open-source Spring Boot web application coded by: <br> 
 &bull; Sara Vukelikj 201504 <br>
 &bull; Dimitar Pavlovski 201517 <br>
