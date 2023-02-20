@@ -1,10 +1,11 @@
 # Pizzicanto 
  is an open-source Spring Boot web application authored by:
-Coded by: Sara Vukelikj 201504|
- Konstantina Sarvanoska 201519 |
- Dimitar Pavlovski 201517 |
- Matej Gorjanov 201536 |
- Timothy Juzevski 201546
+Coded by: 
+*Sara Vukelikj 201504
+*Konstantina Sarvanoska 201519 
+*Dimitar Pavlovski 201517 
+*Matej Gorjanov 201536 
+*Timothy Juzevski 201546
 mentored by:
 Ph.D Ljupcho Antovski
 Ph.D Petre Lameski
