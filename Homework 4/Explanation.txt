@@ -1,0 +1,10 @@
+The application is made that 
+it automatically uses the location
+of the users device, with the device
+location being enabled. There is no 
+need for the user to enter their
+location manually. The user 
+only has to enter the desired state 
+and city so that the random generator 
+can generate a pizzeria within that
+city.

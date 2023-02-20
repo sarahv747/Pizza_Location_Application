@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mk.ukim.finki.dians.pizzicanto.PizzicantoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.151 s - in mk.ukim.finki.dians.pizzicanto.PizzicantoApplicationTests

@@ -1,0 +1,7 @@
+mk\ukim\finki\dians\pizzicanto\repository\PizzeriaRepository.class
+mk\ukim\finki\dians\pizzicanto\model\Pizzeria.class
+mk\ukim\finki\dians\pizzicanto\controller\PizzeriaController.class
+mk\ukim\finki\dians\pizzicanto\data\DataHolder.class
+mk\ukim\finki\dians\pizzicanto\PizzicantoApplication.class
+mk\ukim\finki\dians\pizzicanto\service\impl\PizzeriaServiceImpl.class
+mk\ukim\finki\dians\pizzicanto\service\PizzeriaService.class
